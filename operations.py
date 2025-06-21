@@ -6,7 +6,7 @@ def addition(num1, num2):
     Imagine that you are building a very complex function, and you want to be able to
     work with multiple people.
     """
-    return num1 - num2
+    return num1 + num2
 
 
 def subtraction(num1, num2):
